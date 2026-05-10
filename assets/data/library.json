@@ -24,35 +24,42 @@
     "album": "ABBA Gold",
     "artist": "ABBA",
     "year": "2008",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Lay All Your Love On Me"]
   },
   {
     "album": "Gimme! Gimme! Gimme! (A Man After Midnight)",
     "artist": "ABBA",
     "year": "1979",
-    "genre": "",
+    "genre": "Europop",
     "titles": ["Gimme! Gimme! Gimme! (A Man After Midnight)"]
   },
   {
     "album": "The Singles: The First Ten Years",
     "artist": "ABBA",
     "year": "1983",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["The Winner Takes It All"]
   },
   {
     "album": "Trials & Tribulations (Deluxe)",
     "artist": "Ace Hood",
     "year": "2013",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Bugatti"]
+  },
+  {
+    "album": "Trust the Process II: Undefeated",
+    "artist": "Ace Hood",
+    "year": "2018",
+    "genre": "Hip hop",
+    "titles": ["3 Bless"]
   },
   {
     "album": "Addison",
     "artist": "Addison Rae",
     "year": "2025",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["New York"]
   },
   {
@@ -73,14 +80,14 @@
     "album": "Lucky, Lucky, Lucky Me",
     "artist": "Adrienne Valerie",
     "year": "2018",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Lucky, Lucky, Lucky Me (Klaas Remix)"]
   },
   {
     "album": "OK ORCHESTRA",
     "artist": "AJR",
     "year": "2021",
-    "genre": "",
+    "genre": "Ambient",
     "titles": ["World's Smallest Violin"]
   },
   {
@@ -122,7 +129,7 @@
     "album": "Trouble Deluxe Edition",
     "artist": "Akon",
     "year": "2005",
-    "genre": "",
+    "genre": "Dance-pop",
     "titles": ["Lonely"]
   },
   {
@@ -178,14 +185,14 @@
     "album": "enjoy the ride",
     "artist": "almost monday",
     "year": "2025",
-    "genre": "",
+    "genre": "Alternative punk",
     "titles": ["enjoy the ride"]
   },
   {
     "album": "Good Things",
     "artist": "Aloe Blacc",
     "year": "2010",
-    "genre": "",
+    "genre": "Electro",
     "titles": ["I Need A Dollar"]
   },
   {
@@ -206,63 +213,63 @@
     "album": "Touch",
     "artist": "Amerie",
     "year": "2005",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["1 Thing"]
   },
   {
     "album": "Back To Black (Deluxe Edition)",
     "artist": "Amy Winehouse",
     "year": "2006",
-    "genre": "",
+    "genre": "Soul",
     "titles": ["Rehab", "Back To Black"]
   },
   {
     "album": "Malibu",
     "artist": "Anderson .Paak",
     "year": "2016",
-    "genre": "",
+    "genre": "R&B",
     "titles": ["Come Down", "Silicon Valley", "The Bird", "Heart Don’t Stand a Chance", "The Season / Carry Me", "Put Me Thru", "Parking Lot", "Water Fall (Interluuube)", "Your Prime", "Celebrate"]
   },
   {
     "album": "Malibu",
     "artist": "Anderson .Paak ft. BJ the Chicago Kid",
     "year": "2016",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["The Waters"]
   },
   {
     "album": "Malibu",
     "artist": "Anderson .Paak ft. The Free Nationals United Fellowship Choir",
     "year": "2016",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["Lite Weight"]
   },
   {
     "album": "Malibu",
     "artist": "Anderson .Paak ft. The Game & Sonyae Elise",
     "year": "2016",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["Room in Here"]
   },
   {
     "album": "Malibu",
     "artist": "Anderson .Paak ft. Rapsody",
     "year": "2016",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["Without You"]
   },
   {
     "album": "Malibu",
     "artist": "Anderson .Paak ft. ScHoolBoy Q",
     "year": "2016",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["Am I Wrong"]
   },
   {
     "album": "Malibu",
     "artist": "Anderson .Paak ft. Talib Kweli & Timan Family Choir",
     "year": "2016",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["The Dreamer"]
   },
   {
@@ -283,7 +290,7 @@
     "album": "People Everyday",
     "artist": "Arrested Development",
     "year": "1992",
-    "genre": "",
+    "genre": "Boom bap",
     "titles": ["People Everyday (Metamorphosis Radio Version)"]
   },
   {
@@ -308,13 +315,6 @@
     "titles": ["Elle est à toi"]
   },
   {
-    "album": "credits song for my death but im the final boss.",
-    "artist": "Astron",
-    "year": "2023",
-    "genre": "",
-    "titles": ["credits song for my death but im the final boss."]
-  },
-  {
     "album": "Why I Do It",
     "artist": "August Alsina",
     "year": "2015",
@@ -332,7 +332,7 @@
     "album": "More Than You Know",
     "artist": "Axwell /\\ Ingrosso",
     "year": "2017",
-    "genre": "",
+    "genre": "EP",
     "titles": ["More Than You Know"]
   },
   {
@@ -346,28 +346,28 @@
     "album": "Pandemonium!",
     "artist": "B2K",
     "year": "2003",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Bump, Bump, Bump (feat. P. Diddy)"]
   },
   {
     "album": "Tha Smokin' Nephew",
     "artist": "Baby Bash",
     "year": "2003",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Suga Suga"]
   },
   {
     "album": "Backstreet's Back",
     "artist": "Backstreet Boys",
     "year": "1997",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Everybody (Backstreet's Back) - Radio Edit"]
   },
   {
     "album": "Millennium",
     "artist": "Backstreet Boys",
     "year": "1999",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["I Want It That Way"]
   },
   {
@@ -378,11 +378,25 @@
     "titles": ["Shooting Stars"]
   },
   {
+    "album": "Pour les quartiers",
+    "artist": "Bakar",
+    "year": "2005",
+    "genre": "Hip Hop",
+    "titles": ["Classic", "Freestyle, Part 1", "Le Block", "Mémoires d'immigrés"]
+  },
+  {
     "album": "eat ya veggies",
     "artist": "bbno$",
     "year": "2021",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["edamame"]
+  },
+  {
+    "album": "1-800",
+    "artist": "bbno$ & Ironmouse",
+    "year": "2025",
+    "genre": "Phonk",
+    "titles": ["1-800"]
   },
   {
     "album": "Depression Cherry",
@@ -416,14 +430,14 @@
     "album": "Dangerously In Love",
     "artist": "Beyoncé",
     "year": "2003",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Crazy In Love (feat. JAY-Z)", "Naughty Girl"]
   },
   {
     "album": "I AM...SASHA FIERCE",
     "artist": "Beyoncé",
     "year": "2008",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["If I Were a Boy", "Single Ladies (Put a Ring on It)"]
   },
   {
@@ -444,49 +458,49 @@
     "album": "HIT ME HARD AND SOFT",
     "artist": "Billie Eilish",
     "year": "2024",
-    "genre": "",
+    "genre": "Alternative pop",
     "titles": ["LUNCH"]
   },
   {
     "album": "lovely (with Khalid)",
     "artist": "Billie Eilish",
     "year": "2018",
-    "genre": "",
+    "genre": "Alternative pop",
     "titles": ["lovely (with Khalid)"]
   },
   {
     "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
     "artist": "Billie Eilish",
     "year": "2019",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["bad guy"]
   },
   {
     "album": "The Beginning",
     "artist": "Black Eyed Peas",
     "year": "2010",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["The Time (Dirty Bit)", "Light Up The Night", "Love You Long Time", "XOXOXO", "Someday", "Whenever", "Fashion Beats", "Don’t Stop The Party", "Do It Like This", "The Best One Yet (The Boy)", "Just Can’t Get Enough", "Play It Loud"]
   },
   {
     "album": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
     "artist": "Black Eyed Peas",
     "year": "2009",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Boom Boom Pow", "Rock That Body", "Meet Me Halfway", "Imma Be", "I Gotta Feeling", "Alive", "Missing You", "Ring-A-Ling", "Party All The Time", "Out Of My Head", "Electric City", "Showdown", "Now Generation", "One Tribe", "Rockin To The Beat", "Where Ya Wanna Go", "Simple Little Melody", "Mare", "Don't Bring Me Down", "Pump It Harder", "Let's Get Re-Started", "Shut The Phunk Up", "That's The Joint", "Another Weekend", "Don't Phunk Around"]
   },
   {
     "album": "Elephunk",
     "artist": "Black Eyed Peas",
     "year": "2003",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Hands Up", "Labor Day (It's A Holiday)", "Let's Get It Started - Spike Mix", "Hey Mama", "Shut Up", "Smells Like Funk", "Latin Girls", "Sexy", "Fly Away", "The Boogie That Be", "The Apl Song", "Anxiety", "Where Is The Love?", "Third Eye", "Rock My Shit", "What's Goin Down"]
   },
   {
     "album": "Monkey Business",
     "artist": "Black Eyed Peas",
     "year": "2005",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Pump It", "Don't Phunk With My Heart", "My Style", "Don't Lie", "My Humps", "Like That", "Dum Diddly", "Feel It", "Gone Going", "They Don't Want Music", "Disco Club", "Bebot", "Ba Bump", "Audio Delite at Low Fidelity", "Union", "Do What You Want"]
   },
   {
@@ -521,7 +535,7 @@
     "album": "Bittersweet",
     "artist": "Blu Cantrell",
     "year": "2003",
-    "genre": "",
+    "genre": "Soul",
     "titles": ["Breathe (feat. Sean Paul) - Rap Version"]
   },
   {
@@ -564,7 +578,7 @@
     "artist": "Booba",
     "year": "2015",
     "genre": "French Rap",
-    "titles": ["G-Love"]
+    "titles": ["D.U.C.", "G-Love"]
   },
   {
     "album": "DKR",
@@ -612,7 +626,7 @@
     "album": "Dopamine",
     "artist": "BØRNS",
     "year": "2015",
-    "genre": "",
+    "genre": "Indie rock",
     "titles": ["Past Lives"]
   },
   {
@@ -626,7 +640,7 @@
     "album": "Toxic",
     "artist": "BoyWithUke",
     "year": "2021",
-    "genre": "",
+    "genre": "Alternative pop",
     "titles": ["Toxic"]
   },
   {
@@ -661,7 +675,7 @@
     "album": "Doo-Wops & Hooligans",
     "artist": "Bruno Mars",
     "year": "2010",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Talking to the Moon", "Runaway Baby"]
   },
   {
@@ -689,7 +703,7 @@
     "album": "Jerk It Out [Original Mix]",
     "artist": "Caesars",
     "year": "2005",
-    "genre": "",
+    "genre": "Rock",
     "titles": ["Jerk It Out", "Jerk It Out - New Brauer Mix"]
   },
   {
@@ -710,21 +724,21 @@
     "album": "In A Tidal Wave of Mystery",
     "artist": "Capital Cities",
     "year": "2013",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Safe and Sound"]
   },
   {
     "album": "Bodak Yellow",
     "artist": "Cardi B",
     "year": "2017",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Bodak Yellow"]
   },
   {
     "album": "WAP (feat. Megan Thee Stallion)",
     "artist": "Cardi B",
     "year": "2020",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["WAP (feat. Megan Thee Stallion)"]
   },
   {
@@ -738,21 +752,21 @@
     "album": "Everywhere at the End of Time (Stage 1)",
     "artist": "The Caretaker",
     "year": "2023",
-    "genre": "",
+    "genre": "Dark ambient",
     "titles": ["A1 - It's just a burning memory"]
   },
   {
     "album": "Call Me Maybe",
     "artist": "Carly Rae Jepsen",
     "year": "2012",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Call Me Maybe"]
   },
   {
     "album": "Not Your Muse (Deluxe)",
     "artist": "Celeste",
     "year": "2021",
-    "genre": "",
+    "genre": "Soul",
     "titles": ["Strange"]
   },
   {
@@ -763,10 +777,17 @@
     "titles": ["Doja"]
   },
   {
+    "album": "11'30 contre les lois racistes",
+    "artist": "Cercle Rouge",
+    "year": "1997",
+    "genre": "Hip hop",
+    "titles": ["11'30 contre les lois racistes"]
+  },
+  {
     "album": "Daydream Forever",
     "artist": "The Chain Gang Of 1974",
     "year": "2014",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Sleepwalking"]
   },
   {
@@ -819,10 +840,17 @@
     "titles": ["The World (Is Going Up in Flames)"]
   },
   {
+    "album": "Ça M'est Égal",
+    "artist": "Charlotte Leslie",
+    "year": "1967",
+    "genre": "Lounge",
+    "titles": ["Les Filles C’est Fait…"]
+  },
+  {
     "album": "Still Rich",
     "artist": "Chief Keef",
     "year": "2014",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["I Don’t Like"]
   },
   {
@@ -836,7 +864,7 @@
     "album": "This Is America",
     "artist": "Childish Gambino",
     "year": "2018",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["This Is America"]
   },
   {
@@ -906,14 +934,14 @@
     "album": "Rather Be (feat. Jess Glynne)",
     "artist": "Clean Bandit",
     "year": "2014",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Rather Be (feat. Jess Glynne)"]
   },
   {
     "album": "Symphony (feat. Zara Larsson)",
     "artist": "Clean Bandit",
     "year": "2017",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Symphony (feat. Zara Larsson)"]
   },
   {
@@ -927,29 +955,36 @@
     "album": "Christmas Lights",
     "artist": "Coldplay",
     "year": "2010",
-    "genre": "",
+    "genre": "Christmas music",
     "titles": ["Christmas Lights"]
   },
   {
     "album": "Mylo Xyloto",
     "artist": "Coldplay",
     "year": "2011",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Paradise"]
   },
   {
     "album": "Parachutes",
     "artist": "Coldplay",
     "year": "2000",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Yellow"]
   },
   {
     "album": "Viva La Vida or Death and All His Friends",
     "artist": "Coldplay",
     "year": "2008",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Viva La Vida"]
+  },
+  {
+    "album": "Back in the Day: The Best of Bootsy",
+    "artist": "Bootsy’s Rubber Band",
+    "year": "1994",
+    "genre": "Funk",
+    "titles": ["I'd Rather Be With You"]
   },
   {
     "album": "Gangsta's Paradise",
@@ -983,7 +1018,7 @@
     "album": "Where I Belong",
     "artist": "Cris Cab",
     "year": "2014",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Liar Liar"]
   },
   {
@@ -1018,7 +1053,7 @@
     "album": "She's So Unusual",
     "artist": "Cyndi Lauper",
     "year": "1983",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Girls Just Want to Have Fun"]
   },
   {
@@ -1032,22 +1067,29 @@
     "album": "Petals to Thorns",
     "artist": "d4vd",
     "year": "2023",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["Here With Me", "Romantic Homicide"]
   },
   {
     "album": "D-12 World",
     "artist": "D12",
     "year": "2004",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Loyalty", "My Band"]
   },
   {
     "album": "BLAME IT ON BABY",
     "artist": "DaBaby",
     "year": "2020",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["ROCKSTAR (feat. Roddy Ricch)"]
+  },
+  {
+    "album": "POP DAT THANG",
+    "artist": "DaBaby",
+    "year": "2026",
+    "genre": "Hip hop",
+    "titles": ["POP DAT THANG"]
   },
   {
     "album": "Discovery",
@@ -1069,6 +1111,13 @@
     "year": "1997",
     "genre": "French House",
     "titles": ["Da Funk", "Around the World"]
+  },
+  {
+    "album": "Random Access Memories",
+    "artist": "Daft Punk",
+    "year": "2021",
+    "genre": "",
+    "titles": ["Instant Crush"]
   },
   {
     "album": "QALF infinity",
@@ -1106,6 +1155,13 @@
     "titles": ["Daylight"]
   },
   {
+    "album": "Yippee Ki Yay (YKY)",
+    "artist": "Joseph David-Jones",
+    "year": "2024",
+    "genre": "",
+    "titles": ["Yippee Ki Yay (YKY)"]
+  },
+  {
     "album": "The Legacy of Nu Soul",
     "artist": "Davina",
     "year": "2015",
@@ -1127,25 +1183,39 @@
     "titles": ["Hip-Hop"]
   },
   {
+    "album": "The Art of Loving",
+    "artist": "Olivia Dean",
+    "year": "2025",
+    "genre": "Neo soul",
+    "titles": ["So Easy (To Fall in Love)", "Man I Need"]
+  },
+  {
     "album": "Supernatural",
     "artist": "Des'ree",
     "year": "1998",
-    "genre": "",
+    "genre": "Downtempo",
     "titles": ["Life"]
   },
   {
     "album": "Survivor",
     "artist": "Destiny's Child",
     "year": "2001",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Survivor"]
   },
   {
     "album": "The Writing's On The Wall",
     "artist": "Destiny's Child",
     "year": "1999",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Say My Name"]
+  },
+  {
+    "album": "Freakin’ Out",
+    "artist": "Dexter and The Moonrocks",
+    "year": "2026",
+    "genre": "",
+    "titles": ["Freakin’ Out"]
   },
   {
     "album": "Brut de femme",
@@ -1228,14 +1298,14 @@
     "album": "I Changed A Lot (Deluxe)",
     "artist": "DJ Khaled",
     "year": "2015",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Hold You Down (feat. Chris Brown, August Alsina, Future & Jeremih)"]
   },
   {
     "album": "End of Beginning - Remixed",
     "artist": "Djo",
     "year": "2024",
-    "genre": "",
+    "genre": "Indie pop",
     "titles": ["End of Beginning"]
   },
   {
@@ -1263,14 +1333,14 @@
     "album": "Anxiety",
     "artist": "Doechii",
     "year": "2025",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Anxiety"]
   },
   {
     "album": "Planet Her",
     "artist": "Doja Cat",
     "year": "2021",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Get Into It (Yuh)", "You Right"]
   },
   {
@@ -1286,6 +1356,13 @@
     "year": "1999",
     "genre": "R&B",
     "titles": ["U Know What's Up (feat. Lisa \"Left Eye\" Lopes)"]
+  },
+  {
+    "album": "The Best of The Doors",
+    "artist": "The Doors",
+    "year": "1985",
+    "genre": "Psychedelic rock",
+    "titles": ["Touch Me"]
   },
   {
     "album": "The Chronic",
@@ -1382,28 +1459,28 @@
     "album": "What a Time to Be Alive",
     "artist": "Drake",
     "year": "2015",
-    "genre": "",
+    "genre": "Rap",
     "titles": ["30 for 30 Freestyle"]
   },
   {
     "album": "What a Time to Be Alive",
     "artist": "Drake & Future",
     "year": "2015",
-    "genre": "",
+    "genre": "Rap",
     "titles": ["Digital Dash", "Big Rings", "Live From the Gutter", "Diamonds Dancing", "Scholarships", "Plastic Bag", "I’m the Plug", "Change Locations", "Jumpman"]
   },
   {
     "album": "Spar (feat. 6LACK & Kodak Black)",
     "artist": "Dreezy",
     "year": "2017",
-    "genre": "",
+    "genre": "Drill",
     "titles": ["Spar (feat. 6LACK & Kodak Black)"]
   },
   {
     "album": "Arcade",
     "artist": "Duncan Laurence",
     "year": "2019",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Arcade"]
   },
   {
@@ -1424,14 +1501,14 @@
     "album": "Mondo",
     "artist": "Electric Guest",
     "year": "2012",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["This Head I Hold"]
   },
   {
     "album": "To Be Continued...",
     "artist": "Elton John",
     "year": "1990",
-    "genre": "",
+    "genre": "Arena rock",
     "titles": ["I'm Still Standing"]
   },
   {
@@ -1445,7 +1522,7 @@
     "album": "Jacob and the Stone",
     "artist": "Emile Mosseri",
     "year": "2021",
-    "genre": "",
+    "genre": "Ambient",
     "titles": ["Jacob and the Stone"]
   },
   {
@@ -1529,7 +1606,7 @@
     "album": "Shine",
     "artist": "Estelle",
     "year": "2008",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["American Boy"]
   },
   {
@@ -1550,7 +1627,7 @@
     "album": "Policeman",
     "artist": "Eva Simons",
     "year": "2015",
-    "genre": "",
+    "genre": "Afro house",
     "titles": ["Policeman"]
   },
   {
@@ -1564,7 +1641,7 @@
     "album": "Scorpion",
     "artist": "Eve",
     "year": "2001",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Who's That Girl?", "Let Me Blow Ya Mind"]
   },
   {
@@ -1585,7 +1662,7 @@
     "album": "Be Faithful",
     "artist": "Fatman Scoop",
     "year": "2015",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Be Faithful"]
   },
   {
@@ -1606,56 +1683,56 @@
     "album": "Fetty Wap",
     "artist": "Fetty Wap",
     "year": "2015",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Trap Queen", "679 (feat. Monty)"]
   },
   {
     "album": "Reflection (Deluxe)",
     "artist": "Fifth Harmony",
     "year": "2015",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Worth It (feat. Kid Ink)"]
   },
   {
     "album": "Don’t Forget About Me, Demos",
     "artist": "Dominic Fike",
     "year": "2020",
-    "genre": "",
+    "genre": "Alternative pop",
     "titles": ["Babydoll"]
   },
   {
     "album": "Sax",
     "artist": "Fleur East",
     "year": "2015",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Sax"]
   },
   {
     "album": "Mail on Sunday",
     "artist": "Flo Rida",
     "year": "2008",
-    "genre": "",
+    "genre": "Pop rap",
     "titles": ["Low (feat. T-Pain)"]
   },
   {
     "album": "My House",
     "artist": "Flo Rida",
     "year": "2015",
-    "genre": "",
+    "genre": "Pop rap",
     "titles": ["GDFR (feat. Sage the Gemini & Lookas)"]
   },
   {
     "album": "R.O.O.T.S. (Route of Overcoming the Struggle)",
     "artist": "Flo Rida",
     "year": "2009",
-    "genre": "",
+    "genre": "Pop rap",
     "titles": ["Right Round"]
   },
   {
     "album": "Fight With Tools",
     "artist": "Flobots",
     "year": "2008",
-    "genre": "",
+    "genre": "Conscious hip hop",
     "titles": ["Handlebars"]
   },
   {
@@ -1669,14 +1746,14 @@
     "album": "Lemon Tree",
     "artist": "Fools Garden",
     "year": "1995",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Lemon Tree"]
   },
   {
     "album": "Torches",
     "artist": "Foster The People",
     "year": "2011",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Pumped Up Kicks"]
   },
   {
@@ -1701,10 +1778,17 @@
     "titles": ["(Holy Matrimony) Letter To The Firm", "Get Me Home", "Ill Na Na"]
   },
   {
+    "album": "Aretha Now",
+    "artist": "Aretha Franklin",
+    "year": "1968",
+    "genre": "Soul",
+    "titles": ["I Say a Little Prayer"]
+  },
+  {
     "album": "Costello Music",
     "artist": "The Fratellis",
     "year": "2006",
-    "genre": "",
+    "genre": "Indie rock",
     "titles": ["Flathead"]
   },
   {
@@ -1757,6 +1841,13 @@
     "titles": ["WAIT FOR U (feat. Drake & Tems)"]
   },
   {
+    "album": "What a Time to Be Alive",
+    "artist": "Future",
+    "year": "2015",
+    "genre": "Rap",
+    "titles": ["Jersey"]
+  },
+  {
     "album": "Changer le monde",
     "artist": "Gage",
     "year": "2008",
@@ -1795,7 +1886,7 @@
     "album": "Twenty Five",
     "artist": "George Michael",
     "year": "2006",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Faith - Remastered 2006"]
   },
   {
@@ -1841,17 +1932,24 @@
     "titles": ["Est-ce que tu m'aimes ? - Pilule bleue", "Sapés comme jamais (feat. Niska) - Pilule bleue"]
   },
   {
-    "album": "Subliminal (La face cachée)",
-    "artist": "GIMS",
+    "album": "Subliminal : La Face cachée",
+    "artist": "Maître Gims",
     "year": "2013",
-    "genre": "French Rap",
-    "titles": ["J'me tire"]
+    "genre": "Pop",
+    "titles": ["Intro", "Meurtre par strangulation", "J'me tire", "Freedom", "VQ2PQ", "Ça décoiffe", "One Shot", "Où est ton arme", "Interlude", "La Chute", "Ça marche", "Épuisé", "Laisse tomber", "À la base", "Pas touché", "Outsider", "Bella", "Changer", "You Lose", "Zombie", "De Marseille à Paris", "Close Your Eyes", "Monstre marin", "Warano Style"]
+  },
+  {
+    "album": "LE NORD SE SOUVIENT : L'ODYSSÉE",
+    "artist": "GIMS & La Mano 1.9",
+    "year": "2025",
+    "genre": "",
+    "titles": ["PARISIENNE"]
   },
   {
     "album": "Heat Waves (Expansion Pack)",
     "artist": "Glass Animals",
     "year": "2021",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Heat Waves"]
   },
   {
@@ -1872,7 +1970,7 @@
     "album": "St. Elsewhere",
     "artist": "Gnarls Barkley",
     "year": "2007",
-    "genre": "",
+    "genre": "Alternative hip hop",
     "titles": ["Crazy"]
   },
   {
@@ -1886,21 +1984,28 @@
     "album": "Demon Days",
     "artist": "Gorillaz",
     "year": "2005",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Feel Good Inc.", "DARE"]
   },
   {
     "album": "Plastic Beach",
     "artist": "Gorillaz",
     "year": "2010",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Orchestral Intro (feat. Sinfonia ViVA)", "Welcome to the World of the Plastic Beach (feat. Snoop Dogg and Hypnotic Brass Ensemble)", "White Flag (feat. Bashy, Kano and the National Orchestra for Arabic Music)", "Rhinestone Eyes", "Stylo (feat. Mos Def and Bobby Womack)", "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)", "Empire Ants (feat. Little Dragon)", "Glitter Freeze (feat. Mark E Smith)", "Some Kind of Nature (feat. Lou Reed)", "On Melancholy Hill", "Broken", "Sweepstakes (feat. Mos Def and Hypnotic Brass Ensemble)", "Plastic Beach (feat. Mick Jones and Paul Simonon)", "To Binge (feat. Little Dragon)", "Cloud of Unknowing (feat. Bobby Womack and Sinfonia ViVA)", "Pirate Jet"]
+  },
+  {
+    "album": "La Revancha Del Tango",
+    "artist": "Gotan Project",
+    "year": "2004",
+    "genre": "Electrotango",
+    "titles": ["Santa María (del Buen Ayre)"]
   },
   {
     "album": "Making Mirrors",
     "artist": "Gotye",
     "year": "2011",
-    "genre": "",
+    "genre": "House",
     "titles": ["Somebody That I Used To Know"]
   },
   {
@@ -1928,7 +2033,7 @@
     "album": "Blood // Water",
     "artist": "grandson",
     "year": "2018",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Blood // Water"]
   },
   {
@@ -1970,21 +2075,21 @@
     "album": "Love. Angel. Music. Baby.",
     "artist": "Gwen Stefani",
     "year": "2004",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Hollaback Girl"]
   },
   {
     "album": "The Sweet Escape",
     "artist": "Gwen Stefani",
     "year": "2006",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["The Sweet Escape"]
   },
   {
     "album": "The Papercut Chronicles II (Deluxe Edition)",
     "artist": "Gym Class Heroes",
     "year": "2011",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Stereo Hearts (feat. Adam Levine)"]
   },
   {
@@ -2019,7 +2124,7 @@
     "album": "Harry's House",
     "artist": "Harry Styles",
     "year": "2022",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["As It Was"]
   },
   {
@@ -2033,28 +2138,28 @@
     "album": "The Day I Turned To Glass",
     "artist": "Honeycut",
     "year": "2006",
-    "genre": "",
+    "genre": "Downtempo",
     "titles": ["Exodus Honey"]
   },
   {
     "album": "House of Pain (Fine Malt Lyrics)",
     "artist": "House Of Pain",
     "year": "1992",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Jump Around"]
   },
   {
     "album": "Hozier",
     "artist": "Hozier",
     "year": "2014",
-    "genre": "",
+    "genre": "Blues",
     "titles": ["Take Me To Church"]
   },
   {
     "album": "Neveroddoreven",
     "artist": "I Monster",
     "year": "2005",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Who Is She ?"]
   },
   {
@@ -2103,7 +2208,7 @@
     "album": "Ibeyi",
     "artist": "Ibeyi",
     "year": "2015",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Oya", "River"]
   },
   {
@@ -2166,7 +2271,7 @@
     "album": "The New Classic (Deluxe Version)",
     "artist": "Iggy Azalea",
     "year": "2014",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Fancy"]
   },
   {
@@ -2180,35 +2285,35 @@
     "album": "I LOVE MAKONNEN",
     "artist": "ILOVEMAKONNEN",
     "year": "2014",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["Tuesday (feat. Drake)"]
   },
   {
     "album": "Enemy (with JID) [from the series Arcane League of Legends]",
     "artist": "Imagine Dragons",
     "year": "2021",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Enemy (with JID) - from the series Arcane League of Legends"]
   },
   {
     "album": "Evolve",
     "artist": "Imagine Dragons",
     "year": "2017",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Believer"]
   },
   {
     "album": "It’s Time EP",
     "artist": "Imagine Dragons",
     "year": "2011",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["It's Time"]
   },
   {
     "album": "Night Visions",
     "artist": "Imagine Dragons",
     "year": "2012",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Radioactive", "Demons"]
   },
   {
@@ -2264,21 +2369,21 @@
     "album": "Sweet Action",
     "artist": "Jack Harlow",
     "year": "2020",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["WHATS POPPIN"]
   },
   {
     "album": "Pop Food",
     "artist": "Jack Stauber",
     "year": "2017",
-    "genre": "",
+    "genre": "Indie pop",
     "titles": ["Buttercup"]
   },
   {
     "album": "The Virgo Mixtape",
     "artist": "Jae Millz",
     "year": "2012",
-    "genre": "",
+    "genre": "East coast hip hop",
     "titles": ["Bedrock"]
   },
   {
@@ -2313,14 +2418,14 @@
     "album": "Everything Is 4",
     "artist": "Jason Derulo",
     "year": "2015",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Want to Want Me", "Try Me (feat. Jennifer Lopez and Matoma)"]
   },
   {
     "album": "Tattoos",
     "artist": "Jason Derulo",
     "year": "2013",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Talk Dirty (feat. 2 Chainz)"]
   },
   {
@@ -2369,35 +2474,35 @@
     "album": "Rebirth",
     "artist": "Jennifer Lopez",
     "year": "2005",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Get Right"]
   },
   {
     "album": "This Is Me...Then",
     "artist": "Jennifer Lopez",
     "year": "2002",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix"]
   },
   {
     "album": "All About You",
     "artist": "Jeremih",
     "year": "2010",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Down On Me"]
   },
   {
     "album": "Late Nights: The Album",
     "artist": "Jeremih",
     "year": "2015",
-    "genre": "",
+    "genre": "Dance",
     "titles": ["Don't Tell 'Em"]
   },
   {
     "album": "Who You Are (Platinum Edition)",
     "artist": "Jessie J",
     "year": "2011",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Price Tag"]
   },
   {
@@ -2418,28 +2523,28 @@
     "album": "Don't Worry About Me",
     "artist": "Joey Ramone",
     "year": "2002",
-    "genre": "",
+    "genre": "Garage punk",
     "titles": ["What a Wonderful World"]
   },
   {
     "album": "Love Me Again",
     "artist": "John Newman",
     "year": "2013",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Love Me Again"]
   },
   {
     "album": "Be Honest",
     "artist": "Jorja Smith",
     "year": "2019",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Be Honest"]
   },
   {
     "album": "Drippin’ in Sauce",
     "artist": "Juice WRLD",
     "year": "2019",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Lucid Dreams"]
   },
   {
@@ -2467,21 +2572,21 @@
     "album": "FutureSex/LoveSounds",
     "artist": "Justin Timberlake",
     "year": "2006",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["SexyBack (feat. Timbaland)", "What Goes Around.../...Comes Around (Interlude)"]
   },
   {
     "album": "FutureSex/LoveSounds Deluxe Edition",
     "artist": "Justin Timberlake",
     "year": "2006",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["My Love (feat. T.I.)"]
   },
   {
     "album": "Justified",
     "artist": "Justin Timberlake",
     "year": "2002",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Señorita", "Cry Me a River", "Rock Your Body"]
   },
   {
@@ -2551,14 +2656,14 @@
     "album": "Hopes And Fears",
     "artist": "Keane",
     "year": "2004",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Somewhere Only We Know"]
   },
   {
     "album": "Tasty",
     "artist": "Kelis",
     "year": "2003",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Trick Me", "Milkshake"]
   },
   {
@@ -2642,7 +2747,7 @@
     "album": "Animal (Expanded Edition)",
     "artist": "Kesha",
     "year": "2010",
-    "genre": "",
+    "genre": "Dance-pop",
     "titles": ["Take It Off"]
   },
   {
@@ -2663,14 +2768,14 @@
     "album": "Passion, Pain & Demon Slayin'",
     "artist": "Kid Cudi",
     "year": "2016",
-    "genre": "",
+    "genre": "Alternative hip hop",
     "titles": ["Surfin'"]
   },
   {
     "album": "My Own Lane (Expanded Edition)",
     "artist": "Kid Ink",
     "year": "2014",
-    "genre": "",
+    "genre": "Pop rap",
     "titles": ["No Miracles (feat. Elle Varner & MGK)"]
   },
   {
@@ -2679,13 +2784,6 @@
     "year": "2013",
     "genre": "Alternative Rock",
     "titles": ["Mr. Brightside"]
-  },
-  {
-    "album": "Evil Morty Theme (For the Damaged Coda) (epic version)",
-    "artist": "Samuel Kim",
-    "year": "2021",
-    "genre": "",
-    "titles": ["Evil Morty Theme (For the Damaged Coda) (epic version)"]
   },
   {
     "album": "Gold",
@@ -2719,7 +2817,7 @@
     "album": "Totally Krossed Out",
     "artist": "Kris Kross",
     "year": "1992",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Jump"]
   },
   {
@@ -2728,6 +2826,41 @@
     "year": "1993",
     "genre": "East Coast Hip Hop",
     "titles": ["Sound of da Police"]
+  },
+  {
+    "album": "Chase",
+    "artist": "KSLV",
+    "year": "2021",
+    "genre": "Phonk",
+    "titles": ["Chase"]
+  },
+  {
+    "album": "Disaster",
+    "artist": "KSLV",
+    "year": "2021",
+    "genre": "Phonk",
+    "titles": ["Disaster"]
+  },
+  {
+    "album": "Dynamic",
+    "artist": "KSLV",
+    "year": "2021",
+    "genre": "Phonk",
+    "titles": ["Dynamic"]
+  },
+  {
+    "album": "Override",
+    "artist": "KSLV Noh",
+    "year": "2021",
+    "genre": "Phonk",
+    "titles": ["Override"]
+  },
+  {
+    "album": "Override (Slowed + Reverb)",
+    "artist": "KSLV",
+    "year": "2021",
+    "genre": "Phonk",
+    "titles": ["Override (Slowed + Reverb)"]
   },
   {
     "album": "Born This Way (International Special Edition Version)",
@@ -2751,6 +2884,13 @@
     "titles": ["Bad Romance", "Poker Face"]
   },
   {
+    "album": "Choosin’ Texas",
+    "artist": "Ella Langley",
+    "year": "2025",
+    "genre": "Country",
+    "titles": ["Choosin’ Texas"]
+  },
+  {
     "album": "Clandestino",
     "artist": "Lartiste",
     "year": "2016",
@@ -2768,7 +2908,7 @@
     "album": "Somebody",
     "artist": "Latto",
     "year": "2025",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Somebody"]
   },
   {
@@ -2782,7 +2922,7 @@
     "album": "Dinosaurchestra",
     "artist": "Lemon Demon",
     "year": "2006",
-    "genre": "",
+    "genre": "Synth-pop",
     "titles": ["Fine"]
   },
   {
@@ -2803,14 +2943,14 @@
     "album": "MONTERO (Call Me By Your Name)",
     "artist": "Lil Nas X",
     "year": "2021",
-    "genre": "",
+    "genre": "Pop rap",
     "titles": ["MONTERO (Call Me By Your Name)"]
   },
   {
     "album": "7",
     "artist": "Lil Nas X",
     "year": "2019",
-    "genre": "",
+    "genre": "Pop rap",
     "titles": ["Old Town Road"]
   },
   {
@@ -2880,7 +3020,7 @@
     "album": "Cuz I Love You (Deluxe)",
     "artist": "Lizzo",
     "year": "2019",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Truth Hurts"]
   },
   {
@@ -2943,7 +3083,7 @@
     "album": "First Show",
     "artist": "Luh Tyler",
     "year": "2023",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["First Show"]
   },
   {
@@ -2957,7 +3097,7 @@
     "album": "Almost Famous",
     "artist": "Lumidee",
     "year": "2003",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Never Leave You (Uh Oooh, Uh Oooh)"]
   },
   {
@@ -2971,7 +3111,7 @@
     "album": "Wounded Rhymes",
     "artist": "Lykke Li",
     "year": "2011",
-    "genre": "",
+    "genre": "Indie pop",
     "titles": ["I Follow Rivers - The Magician Remix"]
   },
   {
@@ -2982,31 +3122,31 @@
     "titles": ["Ante Up (Robbin Hoodz Theory)"]
   },
   {
-    "album": "Hurry up, We're Dreaming",
+    "album": "Hurry Up, We’re Dreaming",
     "artist": "M83",
-    "year": "2011",
-    "genre": "",
-    "titles": ["Midnight City"]
+    "year": "2012",
+    "genre": "Synthpop",
+    "titles": ["Midnight City", "My Tears Are Becoming a Sea"]
   },
   {
     "album": "The Heist (Deluxe Edition)",
     "artist": "Macklemore",
     "year": "2012",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Can't Hold Us (feat. Ray Dalton)"]
   },
   {
     "album": "The Heist (Deluxe Edition)",
     "artist": "Macklemore & Ryan Lewis",
     "year": "2012",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Thrift Shop (feat. Wanz)"]
   },
   {
     "album": "This Unruly Mess I've Made",
     "artist": "Macklemore & Ryan Lewis",
     "year": "2016",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)"]
   },
   {
@@ -3027,28 +3167,28 @@
     "album": "Celebration (double disc version)",
     "artist": "Madonna",
     "year": "2009",
-    "genre": "",
+    "genre": "Dance-pop",
     "titles": ["Hung Up", "Vogue", "Like a Prayer"]
   },
   {
     "album": "Like a Virgin",
     "artist": "Madonna",
     "year": "1984",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Like a Virgin"]
   },
   {
     "album": "Ray of Light",
     "artist": "Madonna",
     "year": "1998",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Ray of Light"]
   },
   {
     "album": "True Blue",
     "artist": "Madonna",
     "year": "1986",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["La Isla Bonita"]
   },
   {
@@ -3111,7 +3251,7 @@
     "album": "Chosen",
     "artist": "Måneskin",
     "year": "2017",
-    "genre": "",
+    "genre": "Indie rock",
     "titles": ["Beggin'"]
   },
   {
@@ -3153,14 +3293,14 @@
     "album": "Return of the Mack",
     "artist": "Mark Morrison",
     "year": "1996",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Return of the Mack"]
   },
   {
     "album": "Uptown Special",
     "artist": "Mark Ronson",
     "year": "2015",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Uptown Funk (feat. Bruno Mars)"]
   },
   {
@@ -3188,7 +3328,7 @@
     "album": "JORDI",
     "artist": "Maroon 5",
     "year": "2021",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Memories"]
   },
   {
@@ -3223,7 +3363,7 @@
     "album": "Minister to Sinister",
     "artist": "Mase",
     "year": "2005",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["What You Want"]
   },
   {
@@ -3244,14 +3384,14 @@
     "album": "the rainbow cassette (bonus)",
     "artist": "mazie",
     "year": "2022",
-    "genre": "",
+    "genre": "Bedroom pop",
     "titles": ["dumb dumb", "dumb dumb (sped up)"]
   },
   {
     "album": "Please Hammer Don't Hurt 'Em",
     "artist": "MC Hammer",
     "year": "1990",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["U Can't Touch This"]
   },
   {
@@ -3293,21 +3433,21 @@
     "album": "Savage Remix (feat. Beyoncé)",
     "artist": "Megan Thee Stallion",
     "year": "2020",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Savage Remix (feat. Beyoncé)"]
   },
   {
     "album": "Title (Expanded Edition)",
     "artist": "Meghan Trainor",
     "year": "2015",
-    "genre": "",
+    "genre": "Doo-wop",
     "titles": ["All About That Bass"]
   },
   {
     "album": "Business As Usual",
     "artist": "Men At Work",
     "year": "1981",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Who Can It Be Now?"]
   },
   {
@@ -3342,35 +3482,35 @@
     "album": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
     "artist": "Michael Jackson",
     "year": "1997",
-    "genre": "",
+    "genre": "Disco",
     "titles": ["Ghosts"]
   },
   {
     "album": "Dangerous",
     "artist": "Michael Jackson",
     "year": "1991",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Jam", "Why You Wanna Trip on Me", "In the Closet", "She Drives Me Wild", "Remember the Time", "Can't Let Her Get Away", "Heal the World", "Black or White", "Who Is It", "Give In to Me", "Will You Be There", "Keep the Faith", "Gone Too Soon", "Dangerous"]
   },
   {
     "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
     "artist": "Michael Jackson",
     "year": "1995",
-    "genre": "",
+    "genre": "Classical",
     "titles": ["The Way You Make Me Feel", "Rock With You", "She's Out Of My Life", "Bad", "I Just Can't Stop Loving You", "Man in the Mirror", "Don't Stop 'Til You Get Enough", "Scream", "They Don't Care About Us", "Stranger in Moscow", "This Time Around", "Earth Song", "D.S.", "Money", "Come Together", "You Are Not Alone", "Childhood - Theme from \"Free Willy 2\"", "Tabloid Junkie", "2 Bad", "History", "Little Susie / Pie Jesu", "Smile"]
   },
   {
     "album": "Michael Jackson's This Is It",
     "artist": "Michael Jackson",
     "year": "2009",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Shake Your Body (Down to the Ground) - Remastered Single Version"]
   },
   {
     "album": "Thriller",
     "artist": "Michael Jackson",
     "year": "1982",
-    "genre": "",
+    "genre": "Disco",
     "titles": ["Wanna Be Startin' Somethin'", "Baby Be Mine", "The Girl Is Mine (with Paul McCartney)", "Thriller", "Beat It", "Billie Jean", "Human Nature", "P.Y.T. (Pretty Young Thing)", "The Lady in My Life"]
   },
   {
@@ -3379,6 +3519,13 @@
     "year": "1964",
     "genre": "Variété Française",
     "titles": ["À quoi je rêve"]
+  },
+  {
+    "album": "After Dark x Sweater Weather",
+    "artist": "Mikeeysmind",
+    "year": "2023",
+    "genre": "",
+    "titles": ["After Dark x Sweater Weather"]
   },
   {
     "album": "Light Mellow Miki Matsubara",
@@ -3391,7 +3538,7 @@
     "album": "Acoustic Dance Sessions",
     "artist": "Milow",
     "year": "2012",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Ayo Technology"]
   },
   {
@@ -3413,7 +3560,7 @@
     "artist": "Missy Elliott",
     "year": "2006",
     "genre": "Hip Hop",
-    "titles": ["Lose Control (feat. Ciara & Fat Man Scoop)"]
+    "titles": ["Lose Control (feat. Ciara & Fat Man Scoop)", "Pass That Dutch", "She’s a Bitch"]
   },
   {
     "album": "Under Construction",
@@ -3428,6 +3575,13 @@
     "year": "2015",
     "genre": "Hip Hop",
     "titles": ["WTF (Where They From) [feat. Pharrell Williams]"]
+  },
+  {
+    "album": "Respect M.E.",
+    "artist": "Missy Elliott feat. Da Brat",
+    "year": "2006",
+    "genre": "Contemporary r&b",
+    "titles": ["Sock It 2 Me"]
   },
   {
     "album": "Hell On Earth",
@@ -3454,7 +3608,7 @@
     "album": "I'm a Believer / (I'm Not Your) Steppin' Stone",
     "artist": "The Monkees",
     "year": "1966",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["I'm A Believer"]
   },
   {
@@ -3482,7 +3636,7 @@
     "album": "Touch Up",
     "artist": "Mother Mother",
     "year": "2007",
-    "genre": "",
+    "genre": "Indie rock",
     "titles": ["Verbatim"]
   },
   {
@@ -3510,14 +3664,14 @@
     "album": "Perfect Ten",
     "artist": "Mustard",
     "year": "2019",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Ballin' (with Roddy Ricch)"]
   },
   {
     "album": "\"A\" e o \"Z\"",
     "artist": "Os Mutantes",
     "year": "1986",
-    "genre": "",
+    "genre": "Tropicália",
     "titles": ["Rolling Stones"]
   },
   {
@@ -3559,7 +3713,7 @@
     "album": "Illmatic",
     "artist": "Nas",
     "year": "2004",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["The Genesis", "N.Y. State of Mind", "Life’s a Bitch", "The World Is Yours", "Halftime", "Memory Lane (Sittin’ in da Park)", "One Love", "One Time 4 Your Mind", "Represent", "It Ain't Hard to Tell"]
   },
   {
@@ -3580,7 +3734,7 @@
     "album": "La La La",
     "artist": "Naughty Boy",
     "year": "2013",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["La La La"]
   },
   {
@@ -3608,42 +3762,42 @@
     "album": "I Love You. (10th Anniversary Edition)",
     "artist": "The Neighbourhood",
     "year": "2013",
-    "genre": "",
+    "genre": "Indie pop",
     "titles": ["Sweater Weather"]
   },
   {
     "album": "Nellyville",
     "artist": "Nelly",
     "year": "2002",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Hot In Herre"]
   },
   {
     "album": "Loose",
     "artist": "Nelly Furtado",
     "year": "2006",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Promiscuous"]
   },
   {
     "album": "Adios Bahamas",
     "artist": "Népal",
     "year": "2020",
-    "genre": "",
+    "genre": "Dark ambient",
     "titles": ["Daruma"]
   },
   {
     "album": "Cheddar",
     "artist": "Népal",
     "year": "2020",
-    "genre": "",
+    "genre": "Dark ambient",
     "titles": ["Cheddar"]
   },
   {
     "album": "The Pinkprint (Deluxe Edition)",
     "artist": "Nicki Minaj",
     "year": "2014",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Only", "Truffle Butter"]
   },
   {
@@ -3661,10 +3815,17 @@
     "titles": ["Travesuras"]
   },
   {
+    "album": "Concept Vague",
+    "artist": "Night Lovell",
+    "year": "2014",
+    "genre": "Trap",
+    "titles": ["Dark Light"]
+  },
+  {
     "album": "Nina Sky",
     "artist": "Nina Sky",
     "year": "2004",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Move Ya Body"]
   },
   {
@@ -3673,6 +3834,13 @@
     "year": "1994",
     "genre": "Industrial Rock",
     "titles": ["Hurt (Quiet)"]
+  },
+  {
+    "album": "Les autres",
+    "artist": "Niro",
+    "year": "2016",
+    "genre": "Hip hop",
+    "titles": ["Printemps blanc"]
   },
   {
     "album": "Nevermind (Remastered)",
@@ -3706,14 +3874,14 @@
     "album": "Teen Spirit (Original Motion Picture Soundtrack)",
     "artist": "No Doubt",
     "year": "2019",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Just A Girl"]
   },
   {
     "album": "Wild Young Hearts",
     "artist": "Noisettes",
     "year": "2009",
-    "genre": "",
+    "genre": "Indie rock",
     "titles": ["Never Forget You"]
   },
   {
@@ -3790,7 +3958,7 @@
     "album": "Cheerleader (Remixes)",
     "artist": "OMI",
     "year": "2014",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Cheerleader"]
   },
   {
@@ -3895,7 +4063,7 @@
     "album": "Genèse",
     "artist": "Passi",
     "year": "2000",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Le Commencement", "C'qu'ils veulent", "Rap Bizness", "Dieu créa Einstein (feat. Oli.B)", "www.passiweb.com", "Pour mes supporters", "Ex-Nihilo (feat. Bideew Bou Bess & RCFA)", "Africa Jamaïca (feat. Rita Marley)", "Le Plan B : \"La Cicatrice\" (feat. Stomy Bugsy)", "L'Habit ne fait pas le moine (interlude)", "Tort ou raison (feat. Passi)", "Ghetto Star", "Le Rêve Africain (feat. Bisso Na Bisso)", "7 Société va mal", "Émeutes"]
   },
   {
@@ -3909,7 +4077,7 @@
     "album": "Les Tentations",
     "artist": "Passi",
     "year": "1998",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Intro", "79 à 97", "L’Engreneur", "Je zappe et je mate", "Le maton me guette", "Je contrôle", "Le Keur Sambo", "L’Antre de l’ange", "Le sang de la vendetta", "L’Union", "Sur la sellette", "Tu me manques", "Z.U.L.U. (interlude)", "Hipop Crazy", "La Jardin du diable", "Le monde est à moi"]
   },
   {
@@ -3951,21 +4119,21 @@
     "album": "The Billionaire Boys Club Tape",
     "artist": "Pharrell Williams",
     "year": "2012",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Keep It"]
   },
   {
     "album": "Freedom",
     "artist": "Pharrell Williams",
     "year": "2015",
-    "genre": "",
+    "genre": "Dancehall",
     "titles": ["Freedom"]
   },
   {
     "album": "G I R L",
     "artist": "Pharrell Williams",
     "year": "2014",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Brand New (with Justin Timberlake)", "Hunter", "Come Get It Bae", "Lost Queen", "Know Who You Are (with Alicia Keys)"]
   },
   {
@@ -4000,7 +4168,7 @@
     "album": "Synchronicity (Remastered 2003)",
     "artist": "The Police",
     "year": "1983",
-    "genre": "",
+    "genre": "New wave",
     "titles": ["Every Breath You Take"]
   },
   {
@@ -4014,14 +4182,14 @@
     "album": "beerbongs & bentleys",
     "artist": "Post Malone",
     "year": "2018",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["rockstar (feat. 21 Savage)"]
   },
   {
     "album": "Ghetto Supastar",
     "artist": "Pras",
     "year": "1998",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & My´a)"]
   },
   {
@@ -4042,7 +4210,7 @@
     "album": "Pom pom pom",
     "artist": "projet facteur x2",
     "year": "2004",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Pom pom pom"]
   },
   {
@@ -4119,7 +4287,7 @@
     "album": "Human (Deluxe)",
     "artist": "Rag'n'Bone Man",
     "year": "2017",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Human"]
   },
   {
@@ -4147,7 +4315,7 @@
     "album": "Notion",
     "artist": "The Rare Occasions",
     "year": "2021",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Notion"]
   },
   {
@@ -4161,21 +4329,21 @@
     "album": "Sex & Violins",
     "artist": "Rednex",
     "year": "1994",
-    "genre": "",
+    "genre": "Euro house",
     "titles": ["Cotton Eye Joe"]
   },
   {
     "album": "Ride It",
     "artist": "Regard",
     "year": "2019",
-    "genre": "",
+    "genre": "Bassline",
     "titles": ["Ride It"]
   },
   {
     "album": "Whenever You Need Somebody",
     "artist": "Rick Astley",
     "year": "1987",
-    "genre": "",
+    "genre": "Blue-eyed soul",
     "titles": ["Never Gonna Give You Up"]
   },
   {
@@ -4196,35 +4364,35 @@
     "album": "ANTI (Deluxe)",
     "artist": "Rihanna",
     "year": "2016",
-    "genre": "",
+    "genre": "Electro",
     "titles": ["Work", "Needed Me"]
   },
   {
     "album": "Bitch Better Have My Money",
     "artist": "Rihanna",
     "year": "2015",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Bitch Better Have My Money"]
   },
   {
     "album": "Loud",
     "artist": "Rihanna",
     "year": "2010",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["What's My Name?", "Only Girl (In The World)", "Man Down"]
   },
   {
     "album": "Rated R",
     "artist": "Rihanna",
     "year": "2009",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Russian Roulette", "Rude Boy"]
   },
   {
     "album": "Unapologetic (Deluxe)",
     "artist": "Rihanna",
     "year": "2012",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Diamonds"]
   },
   {
@@ -4245,14 +4413,14 @@
     "album": "Blurred Lines (Deluxe)",
     "artist": "Robin Thicke",
     "year": "2013",
-    "genre": "",
+    "genre": "Soul",
     "titles": ["Give It 2 U"]
   },
   {
     "album": "John Morales Presents Club Motown",
     "artist": "Rockwell",
     "year": "2014",
-    "genre": "",
+    "genre": "Synth-pop",
     "titles": ["Somebody's Watching Me"]
   },
   {
@@ -4315,7 +4483,7 @@
     "album": "Diamond Life",
     "artist": "Sade",
     "year": "1984",
-    "genre": "",
+    "genre": "Smooth jazz",
     "titles": ["Smooth Operator"]
   },
   {
@@ -4357,14 +4525,14 @@
     "album": "START UP A RUMOUR",
     "artist": "Sam Gellaitry",
     "year": "2025",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["START UP A RUMOUR"]
   },
   {
     "album": "Supernatural (Remastered)",
     "artist": "Santana",
     "year": "1999",
-    "genre": "",
+    "genre": "Latin rock",
     "titles": ["Maria Maria (feat. The Product G&B)"]
   },
   {
@@ -4378,7 +4546,7 @@
     "album": "Oxymoron (Deluxe)",
     "artist": "ScHoolboy Q",
     "year": "2014",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Collard Greens"]
   },
   {
@@ -4413,7 +4581,7 @@
     "album": "Reason",
     "artist": "Selah Sue",
     "year": "2015",
-    "genre": "",
+    "genre": "Soul",
     "titles": ["Alone"]
   },
   {
@@ -4469,7 +4637,7 @@
     "album": "Señorita",
     "artist": "Shawn Mendes",
     "year": "2019",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Señorita"]
   },
   {
@@ -4504,28 +4672,28 @@
     "album": "Everyday Is Christmas (Deluxe Edition)",
     "artist": "Sia",
     "year": "2018",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Snowman"]
   },
   {
     "album": "This Is Acting",
     "artist": "Sia",
     "year": "2016",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Unstoppable", "Cheap Thrills", "Cheap Thrills (feat. Sean Paul)"]
   },
   {
     "album": "1000 Forms Of Fear",
     "artist": "Sia",
     "year": "2014",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["Chandelier", "Big Girls Cry"]
   },
   {
     "album": "Watch Me (Whip / Nae Nae)",
     "artist": "Silentó",
     "year": "2015",
-    "genre": "",
+    "genre": "Dance-pop",
     "titles": ["Watch Me (Whip / Nae Nae)"]
   },
   {
@@ -4560,14 +4728,14 @@
     "album": "Unleash The Dragon",
     "artist": "Sisqo",
     "year": "1999",
-    "genre": "",
+    "genre": "Breakbeat",
     "titles": ["Thong Song"]
   },
   {
     "album": "I Wish",
     "artist": "Skee-Lo",
     "year": "1995",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["I Wish - Radio Edit"]
   },
   {
@@ -4576,6 +4744,13 @@
     "year": "2023",
     "genre": "Brooklyn Drill",
     "titles": ["ANXIETY (feat. Doechii)"]
+  },
+  {
+    "album": "Pacific Coast Party",
+    "artist": "Smash Mouth",
+    "year": "2001",
+    "genre": "Ska punk",
+    "titles": ["All Star"]
   },
   {
     "album": "Gravé dans la roche",
@@ -4623,7 +4798,7 @@
     "album": "Treehouse",
     "artist": "Sofi Tukker",
     "year": "2018",
-    "genre": "",
+    "genre": "Dance-pop",
     "titles": ["Best Friend (feat. NERVO, The Knocks & ALISA UENO)"]
   },
   {
@@ -4637,7 +4812,7 @@
     "album": "souljaboytellem.com",
     "artist": "Soulja Boy",
     "year": "2007",
-    "genre": "",
+    "genre": "Pop rap",
     "titles": ["Crank That (Soulja Boy)"]
   },
   {
@@ -4651,7 +4826,7 @@
     "album": "Wannabe 25",
     "artist": "Spice Girls",
     "year": "2021",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Wannabe"]
   },
   {
@@ -4686,14 +4861,14 @@
     "album": "Cradles",
     "artist": "Sub Urban",
     "year": "2019",
-    "genre": "",
+    "genre": "Electro",
     "titles": ["Cradles"]
   },
   {
     "album": "Imaginary Friend",
     "artist": "Success Keeps Spittin",
     "year": "2018",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Imaginary Friend"]
   },
   {
@@ -4709,6 +4884,13 @@
     "year": "2012",
     "genre": "French Rap",
     "titles": ["Par où commencer", "Sois fier de c'que t'es"]
+  },
+  {
+    "album": "Above the Clouds",
+    "artist": "Sunriver",
+    "year": "2026",
+    "genre": "Single",
+    "titles": ["Above the Clouds"]
   },
   {
     "album": "Breakfast In America (Deluxe Edition)",
@@ -4742,7 +4924,7 @@
     "album": "Eye Of The Tiger",
     "artist": "Survivor",
     "year": "1982",
-    "genre": "",
+    "genre": "Hard rock",
     "titles": ["Eye of the Tiger"]
   },
   {
@@ -4756,29 +4938,36 @@
     "album": "Epiphany (Expanded Edition)",
     "artist": "T-Pain",
     "year": "2007",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Church (feat. Teddy Verseti)", "Bartender (feat. Akon)"]
   },
   {
     "album": "Happy Hour: The Greatest Hits",
     "artist": "T-Pain",
     "year": "2014",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Up Down (Do This All Day) (feat. B.o.B)"]
   },
   {
     "album": "Rappa Ternt Sanga (Expanded Edition)",
     "artist": "T-Pain",
     "year": "2005",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["I'm Sprung"]
   },
   {
     "album": "All the Things She Said (Martin’s Heated radio remix)",
     "artist": "t.A.T.u.",
     "year": "2026",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["All the Things She Said"]
+  },
+  {
+    "album": "LET 'EM KNOW",
+    "artist": "T.I.",
+    "year": "2026",
+    "genre": "Hip hop",
+    "titles": ["LET 'EM KNOW"]
   },
   {
     "album": "Paper Trail",
@@ -4826,14 +5015,14 @@
     "album": "The Fast and the Furious: Tokyo Drift",
     "artist": "Teriyaki Boyz",
     "year": "2006",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Tokyo Drift (Fast & Furious)"]
   },
   {
     "album": "2001",
     "artist": "Thomas Chong",
     "year": "1999",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Outro"]
   },
   {
@@ -4854,21 +5043,21 @@
     "album": "Shock Value",
     "artist": "Timbaland",
     "year": "2007",
-    "genre": "",
+    "genre": "R&b",
     "titles": ["Give It To Me", "The Way I Are", "Come and Get Me"]
   },
   {
     "album": "Shock Value II",
     "artist": "Timbaland",
     "year": "2009",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Carry Out (Featuring Justin Timberlake)", "Morning After Dark (Featuring Nelly Furtado & SoShy)"]
   },
   {
     "album": "Fanmail",
     "artist": "TLC",
     "year": "1999",
-    "genre": "",
+    "genre": "Uk garage",
     "titles": ["No Scrubs"]
   },
   {
@@ -4882,21 +5071,28 @@
     "album": "Long Way Down (Deluxe)",
     "artist": "Tom Odell",
     "year": "2013",
-    "genre": "",
+    "genre": "Indie rock",
     "titles": ["Another Love"]
+  },
+  {
+    "album": "Genius of Live",
+    "artist": "Tom Tom Club",
+    "year": "2010",
+    "genre": "Pop",
+    "titles": ["Genius of Love"]
   },
   {
     "album": "Dance Monkey (Stripped Back) / Dance Monkey",
     "artist": "Tones And I",
     "year": "2019",
-    "genre": "",
+    "genre": "Dance-pop",
     "titles": ["Dance Monkey"]
   },
   {
     "album": "Lost Files",
     "artist": "Top$ide",
     "year": "2022",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Velvet"]
   },
   {
@@ -4956,31 +5152,38 @@
     "titles": ["Can I Kick It?"]
   },
   {
+    "album": "Father FiGGA",
+    "artist": "Trinidad James feat. Brother Joe",
+    "year": "2017",
+    "genre": "",
+    "titles": ["Riker$"]
+  },
+  {
     "album": "Truthfully Speaking",
     "artist": "Truth Hurts",
     "year": "2002",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Addictive"]
   },
   {
     "album": "Blurryface",
     "artist": "Twenty One Pilots",
     "year": "2015",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Stressed Out"]
   },
   {
     "album": "Breach",
     "artist": "Twenty One Pilots",
     "year": "2025",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["City Walls"]
   },
   {
     "album": "Heathens",
     "artist": "Twenty One Pilots",
     "year": "2016",
-    "genre": "",
+    "genre": "Alternative rock",
     "titles": ["Heathens"]
   },
   {
@@ -5099,7 +5302,7 @@
     "album": "The Trojan Horse",
     "artist": "WATCH THE DUCK",
     "year": "2015",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Stretch 2-3-4 (feat. Pharrell Williams)"]
   },
   {
@@ -5113,56 +5316,63 @@
     "album": "After Hours",
     "artist": "The Weeknd",
     "year": "2020",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Blinding Lights", "Save Your Tears"]
   },
   {
     "album": "Beauty Behind The Madness",
     "artist": "The Weeknd",
     "year": "2015",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["Can't Feel My Face", "Often"]
   },
   {
     "album": "Dawn FM",
     "artist": "The Weeknd",
     "year": "2022",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["Sacrifice"]
   },
   {
     "album": "The Highlights",
     "artist": "The Weeknd",
     "year": "2021",
-    "genre": "",
-    "titles": ["Earned It (Fifty Shades Of Grey)"]
+    "genre": "Contemporary r&b",
+    "titles": ["Heartless", "The Hills", "Call Out My Name", "Earned It (Fifty Shades Of Grey)"]
+  },
+  {
+    "album": "Hurry Up Tomorrow",
+    "artist": "The Weeknd",
+    "year": "0",
+    "genre": "R&B",
+    "titles": ["Timeless (with Playboi Carti)", "Cry For Me"]
   },
   {
     "album": "Save Your Tears (Remix)",
     "artist": "The Weeknd",
     "year": "2021",
-    "genre": "",
+    "genre": "R&B",
     "titles": ["Save Your Tears (with Ariana Grande) (Remix)"]
   },
   {
     "album": "Starboy",
     "artist": "The Weeknd",
     "year": "2016",
-    "genre": "",
+    "genre": "Alternative r&b",
     "titles": ["Starboy"]
   },
   {
     "album": "Timeless (Remix)",
     "artist": "The Weeknd",
     "year": "2025",
-    "genre": "",
+    "genre": "R&B",
     "titles": ["Timeless (feat. Playboi Carti & Doechii) - Remix"]
   },
   {
     "album": "Drunk On Light",
     "artist": "Weevil",
     "year": "2005",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Bytecry"]
   },
   {
@@ -5183,7 +5393,7 @@
     "album": "Women in Technology",
     "artist": "White Town",
     "year": "1997",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["Your Woman"]
   },
   {
@@ -5197,14 +5407,14 @@
     "album": "Big Willie Style",
     "artist": "Will Smith",
     "year": "1997",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Gettin' Jiggy Wit It", "Miami", "Men In Black - From \"Men In Black\" Soundtrack"]
   },
   {
     "album": "#willpower",
     "artist": "will.i.am",
     "year": "2013",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Scream & Shout"]
   },
   {
@@ -5213,6 +5423,13 @@
     "year": "2021",
     "genre": "French R&B",
     "titles": ["Le Mur Du Son (Bounce)", "Cette Lettre"]
+  },
+  {
+    "album": "Espresso Guitar",
+    "artist": "Martin Winch",
+    "year": "1998",
+    "genre": "",
+    "titles": ["Wicked Game"]
   },
   {
     "album": "Rolling Papers",
@@ -5225,7 +5442,7 @@
     "album": "Nine Track Mind",
     "artist": "Wiz Khalifa feat. Charlie Puth",
     "year": "2016",
-    "genre": "",
+    "genre": "Electronic",
     "titles": ["See You Again"]
   },
   {
@@ -5253,7 +5470,7 @@
     "album": "Yael Naim",
     "artist": "Yael Naim",
     "year": "2007",
-    "genre": "",
+    "genre": "Contemporary r&b",
     "titles": ["New Soul"]
   },
   {
@@ -5264,10 +5481,17 @@
     "titles": ["Fly-day Chinatown"]
   },
   {
+    "album": "My Beautiful Dark Twisted Fantasy",
+    "artist": "Kanye West feat. KiD CuDi & Raekwon",
+    "year": "2010",
+    "genre": "Hip hop",
+    "titles": ["Gorgeous"]
+  },
+  {
     "album": "Baccend Beezy",
     "artist": "Yella Beezy",
     "year": "2019",
-    "genre": "",
+    "genre": "Hip hop",
     "titles": ["Bacc At It Again"]
   },
   {
@@ -5281,7 +5505,7 @@
     "album": "Mind Over Matter",
     "artist": "Young the Giant",
     "year": "2014",
-    "genre": "",
+    "genre": "Indie rock",
     "titles": ["Mind Over Matter"]
   },
   {
@@ -5316,7 +5540,7 @@
     "album": "reputation Stadium Tour Surprise Song Playlist",
     "artist": "ZAYN",
     "year": "2017",
-    "genre": "",
+    "genre": "Pop",
     "titles": ["I Don’t Wanna Live Forever (Fifty Shades Darker)"]
   },
   {
@@ -5395,12 +5619,5 @@
     "year": "1996",
     "genre": "R&B",
     "titles": ["Only You (feat. The Notorious B.I.G., Ma$e) - Bad Boy Remix"]
-  },
-  {
-    "album": "What a Time to Be Alive",
-    "artist": "",
-    "year": "2015",
-    "genre": "Rap",
-    "titles": ["Jersey"]
   }
 ]
